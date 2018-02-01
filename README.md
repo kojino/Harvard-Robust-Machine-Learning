@@ -3,8 +3,14 @@ A tensorflow tutorial for CS282R: Robust Machine Learning at Harvard University.
 
 ## Setup
 First, install Anaconda [here](https://www.anaconda.com/download/#macos).
-Clone this repository and run the following:
+Clone this repository with:
 ```
+git clone https://github.com/kojino/CS282R_Deep_Learning_Workshop
+```
+
+and run the following:
+```
+cd CS282R_Deep_Learning_Workshop       # navigate to the new directory
 conda env create environment.yml       # create conda virtual environment
 source activate deep_learning_workshop # activate the virtual environment
 jupyter notebook                       # open jupyter on your default browser
