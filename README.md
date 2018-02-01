@@ -20,3 +20,4 @@ source deactivate                      # get out of the virtual environment
 
 ## References
 - [Official Tutorial on handwritten digits (MNIST) classification](https://www.tensorflow.org/tutorials/layers)
+- [Tutorial on GitHub with most stars](https://github.com/aymericdamien/TensorFlow-Examples)
