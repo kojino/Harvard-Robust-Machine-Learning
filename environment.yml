@@ -1,0 +1,98 @@
+name: deep_learning_workshop
+channels:
+- defaults
+dependencies:
+- _nb_ext_conf=0.4.0=py36_1
+- anaconda-client=1.6.9=py36_0
+- appnope=0.1.0=py36hf537a9a_0
+- asn1crypto=0.24.0=py36_0
+- bleach=2.1.2=py36_0
+- ca-certificates=2017.08.26=ha1e5d58_0
+- certifi=2018.1.18=py36_0
+- cffi=1.11.4=py36h342bebf_0
+- chardet=3.0.4=py36h96c241c_1
+- clyent=1.2.2=py36hae3ad88_0
+- cryptography=2.1.4=py36h842514c_0
+- decorator=4.2.1=py36_0
+- entrypoints=0.2.3=py36hd81d71f_2
+- html5lib=1.0.1=py36h2f9c1c0_0
+- idna=2.6=py36h8628d0a_1
+- intel-openmp=2018.0.0=h8158457_8
+- ipykernel=4.8.0=py36_0
+- ipython=6.2.1=py36h3dda519_1
+- ipython_genutils=0.2.0=py36h241746c_0
+- ipywidgets=7.1.1=py36_0
+- jedi=0.11.1=py36_0
+- jinja2=2.10=py36hd36f9c5_0
+- jsonschema=2.6.0=py36hb385e00_0
+- jupyter_client=5.2.2=py36_0
+- jupyter_core=4.4.0=py36h79cf704_0
+- libcxx=4.0.1=h579ed51_0
+- libcxxabi=4.0.1=hebd6815_0
+- libedit=3.1=hb4e282d_0
+- libffi=3.2.1=h475c297_4
+- libgfortran=3.0.1=h93005f0_2
+- libprotobuf=3.4.1=h326466f_0
+- libsodium=1.0.15=hd9e47c5_0
+- markupsafe=1.0=py36h3a1e703_1
+- mistune=0.8.3=py36_0
+- mkl=2018.0.1=hfbd8650_4
+- nb_anacondacloud=1.4.0=py36_0
+- nb_conda=2.2.1=py36h349edbb_0
+- nb_conda_kernels=2.1.0=py36_0
+- nbconvert=5.3.1=py36h810822e_0
+- nbformat=4.4.0=py36h827af21_0
+- nbpresent=3.0.2=py36hef4c988_1
+- ncurses=6.0=hd04f020_2
+- notebook=5.3.1=py36_2
+- numpy=1.12.1=py36h8871d66_1
+- openssl=1.0.2n=hdbc3d79_0
+- pandoc=1.19.2.1=ha5e8f32_1
+- pandocfilters=1.4.2=py36h3b0b094_1
+- parso=0.1.1=py36hc90e01c_0
+- pexpect=4.3.1=py36_0
+- pickleshare=0.7.4=py36hf512f8e_0
+- pip=9.0.1=py36h1555ced_4
+- prompt_toolkit=1.0.15=py36haeda067_0
+- protobuf=3.4.1=py36h314970b_0
+- ptyprocess=0.5.2=py36he6521c3_0
+- pycparser=2.18=py36h724b2fc_1
+- pygments=2.2.0=py36h240cd3f_0
+- pyopenssl=17.5.0=py36h51e4350_0
+- pysocks=1.6.7=py36hfa33cec_1
+- python=3.6.4=hc167b69_1
+- python-dateutil=2.6.1=py36h86d2abb_1
+- pytz=2017.3=py36hf0bf824_0
+- pyyaml=3.12=py36h2ba1e63_1
+- pyzmq=16.0.3=py36he48b5ad_0
+- readline=7.0=hc1231fa_4
+- requests=2.18.4=py36h4516966_1
+- send2trash=1.4.2=py36_0
+- setuptools=38.4.0=py36_0
+- simplegeneric=0.8.1=py36he5b5b09_0
+- six=1.11.0=py36h0e22d5e_1
+- sqlite=3.22.0=h3efe00b_0
+- tensorflow=1.1.0=np112py36_0
+- terminado=0.8.1=py36_0
+- testpath=0.3.1=py36h625a49b_0
+- tk=8.6.7=h35a86e2_3
+- tornado=4.5.3=py36_0
+- traitlets=4.3.2=py36h65bd3ce_0
+- urllib3=1.22=py36h68b9469_0
+- wcwidth=0.1.7=py36h8c6ec74_0
+- webencodings=0.5.1=py36h3b9701d_1
+- werkzeug=0.14.1=py36_0
+- wheel=0.30.0=py36h5eb2c71_1
+- widgetsnbextension=3.1.0=py36_0
+- xz=5.2.3=h0278029_2
+- yaml=0.1.7=hc338f04_2
+- zeromq=4.2.2=ha360ad0_2
+- zlib=1.2.11=hf3cbc9b_2
+- pip:
+  - ipython-genutils==0.2.0
+  - jupyter-client==5.2.2
+  - jupyter-core==4.4.0
+  - nb-anacondacloud==1.4.0
+  - nb-conda==2.2.1
+  - nb-conda-kernels==2.1.0
+  - prompt-toolkit==1.0.15
