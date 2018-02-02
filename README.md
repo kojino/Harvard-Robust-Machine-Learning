@@ -1,22 +1,21 @@
-# CS282R Deep Learning Workshop
-A tensorflow tutorial for CS282R: Robust Machine Learning at Harvard University.
+# CS282R Tensorflow Workshop
+A tensorflow tutorial for CS282R: Robust Machine Learning taught at Harvard University in Spring 2018.
 
-## Setup
-First, install Anaconda [here](https://www.anaconda.com/download/#macos).
-Clone this repository and run the following:
-```
-conda env create environment.yml       # create conda virtual environment
-source activate deep_learning_workshop # activate the virtual environment
-jupyter notebook                       # open jupyter on your default browser
-```
-Once you open jupyter notebook, make sure the kernel is set to `Python [conda env:deep_learning_workshop]`.
+## Overview
+This workshop covers the fundamentals of TensorFlow. By the end of this workshop, you will be ready to start building your own neural network models in TensorFlow.
 
-![alt text][setup.png]
+## Prerequisite
+- Comfortability with Python
+- Understanding of basic machine learning concepts e.g. cross entropy loss, back propagation, 3-layer fully connected neural network. You can definitely google along if some of these concepts are shaky.
 
-Once you're done with your work, you can deactivate to get out of the virtual environment:
-```
-source deactivate                      # get out of the virtual environment
-```
+## Index
+1. Setup
+2. Tensorflow and Computation Graphs
+3. Sessions and Basic Operations
+4. Taking Gradients, Logisitic Regression
+5. Multi-layer Perceptron
+6. GAN
+
 
 ## References
 - [Official Tutorial on handwritten digits (MNIST) classification](https://www.tensorflow.org/tutorials/layers)
