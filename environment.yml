@@ -1,4 +1,4 @@
-name: deep_learning_workshop
+name: tensorflow_workshop
 channels:
 - defaults
 dependencies:

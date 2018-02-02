@@ -19,12 +19,12 @@ if you see the version of your conda (e.g. `5.0.1`), success! If not, google aro
 Clone this repository and run the following:
 ```
 conda env create environment.yml       # create conda virtual environment
-source activate deep_learning_workshop # activate the virtual environment
+source activate tensorflow_workshop    # activate the virtual environment
 jupyter notebook                       # open jupyter on your default browser
 ```
-Once you open jupyter notebook, make sure the kernel is set to `Python [conda env:deep_learning_workshop]`.
+Once you open `jupyter notebook`, make sure the kernel is set to `Python [conda env:tensorflow_workshop]`.
 
-![alt text][setup.png]
+![alt text](images/setup.png)
 
 Once you're done with your work, you can deactivate to get out of the virtual environment:
 ```

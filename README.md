@@ -16,7 +16,11 @@ This workshop covers the fundamentals of TensorFlow. By the end of this workshop
 5. Multi-layer Perceptron
 6. GAN
 
-
 ## References
 - [Official Tutorial on handwritten digits (MNIST) classification](https://www.tensorflow.org/tutorials/layers)
 - [Tutorial on GitHub with most stars](https://github.com/aymericdamien/TensorFlow-Examples)
+
+
+Workshop offered by: [Kojin Oshiba](http://kojinoshiba.com/), Jerry Jirawat Anunrojwong.
+<br />
+Course taught by Professor [Yaron Singer](https://people.seas.harvard.edu/~yaron/).
