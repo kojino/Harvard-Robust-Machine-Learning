@@ -10,16 +10,21 @@ This workshop covers the fundamentals of TensorFlow. By the end of this workshop
 
 ## Index
 1. Setup
-2. Tensorflow and Computation Graphs
-3. Sessions and Basic Operations
-4. Taking Gradients, Logisitic Regression
-5. Multi-layer Perceptron
-6. GAN
+2. What is TensorFlow?
+3. Computation Graphs, Sessions
+4. Basic Math, Matrix Operations
+5. Visualization using TensorBoard
+6. Variables, Taking Gradients
+7. Placeholders
+8. Linear Regression
+9. Multi-layer Perceptron
+10. GAN
 
 ## References
 - [Official Tutorial on handwritten digits (MNIST) classification](https://www.tensorflow.org/tutorials/layers)
+- [Stanford CS20, TensorFlow for Deep Learning Research](https://web.stanford.edu/class/cs20si/syllabus.html)
+- [Stanford CS224d, Deep Learning for NLP](http://web.stanford.edu/class/cs224n/syllabus.html)
 - [Tutorial on GitHub with most stars](https://github.com/aymericdamien/TensorFlow-Examples)
-
 
 Workshop offered by: [Kojin Oshiba](http://kojinoshiba.com/), Jerry Jirawat Anunrojwong.
 <br />

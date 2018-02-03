@@ -44,7 +44,7 @@ dependencies:
 - nbformat=4.4.0=py36h827af21_0
 - nbpresent=3.0.2=py36hef4c988_1
 - ncurses=6.0=hd04f020_2
-- notebook=5.3.1=py36_2
+- notebook=5.4.0=py36_0
 - numpy=1.12.1=py36h8871d66_1
 - openssl=1.0.2n=hdbc3d79_0
 - pandoc=1.19.2.1=ha5e8f32_1
@@ -54,7 +54,6 @@ dependencies:
 - pickleshare=0.7.4=py36hf512f8e_0
 - pip=9.0.1=py36h1555ced_4
 - prompt_toolkit=1.0.15=py36haeda067_0
-- protobuf=3.4.1=py36h314970b_0
 - ptyprocess=0.5.2=py36he6521c3_0
 - pycparser=2.18=py36h724b2fc_1
 - pygments=2.2.0=py36h240cd3f_0
@@ -72,8 +71,7 @@ dependencies:
 - simplegeneric=0.8.1=py36he5b5b09_0
 - six=1.11.0=py36h0e22d5e_1
 - sqlite=3.22.0=h3efe00b_0
-- tensorflow=1.1.0=np112py36_0
-- terminado=0.8.1=py36_0
+- terminado=0.8.1=py36_1
 - testpath=0.3.1=py36h625a49b_0
 - tk=8.6.7=h35a86e2_3
 - tornado=4.5.3=py36_0
@@ -89,10 +87,17 @@ dependencies:
 - zeromq=4.2.2=ha360ad0_2
 - zlib=1.2.11=hf3cbc9b_2
 - pip:
+  - enum34==1.1.6
   - ipython-genutils==0.2.0
   - jupyter-client==5.2.2
   - jupyter-core==4.4.0
+  - markdown==2.6.11
   - nb-anacondacloud==1.4.0
   - nb-conda==2.2.1
   - nb-conda-kernels==2.1.0
   - prompt-toolkit==1.0.15
+  - protobuf==3.5.1
+  - tensorflow==1.4.1
+  - tensorflow-tensorboard==0.4.0
+prefix: /Users/kojin/anaconda/envs/tensorflow_workshop
+
