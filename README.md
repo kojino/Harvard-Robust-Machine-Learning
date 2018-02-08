@@ -10,15 +10,14 @@ This workshop covers the fundamentals of TensorFlow. By the end of this workshop
 
 ## Index
 1. Setup
-2. What is TensorFlow?
-3. Computation Graphs, Sessions
-4. Basic Math, Matrix Operations
-5. Visualization using TensorBoard
-6. Variables, Taking Gradients
-7. Placeholders
-8. Linear Regression
-9. Multi-layer Perceptron
-10. GAN
+2. Introduction
+3. Graphs, Sessions
+4. Basic Operations
+5. Variables, Gradients, Placeholders
+6. Classification, Regression
+7. Visualization
+8. Multi-layer Perceptron
+9. GAN
 
 ## References
 - [Official Tutorial on handwritten digits (MNIST) classification](https://www.tensorflow.org/tutorials/layers)
