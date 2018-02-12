@@ -17,8 +17,8 @@ That said, my code is not the best thing in the world. If you find any improveme
 - Install `TensorFlow` and other packages by following section 1. Run code in section 3 and make sure things run smoothly before class.
 
 ## Index
-1. [Setup](1_Setup.ibynb)
-2. [Introduction](2_Introduction.ibynb)
+1. [Setup](1_Setup.ipynb)
+2. [Introduction](2_Introduction.ipynb)
 3. [Graphs, Sessions](3_Graphs_Sessions.ipynb)
 4. [Basic Operations](4_Basic_Operations.ipynb)
 5. [Variables, Gradients, Placeholders](5_Variables_Gradients_Placeholders.ipynb)
