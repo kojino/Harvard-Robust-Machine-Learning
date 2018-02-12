@@ -6,14 +6,6 @@ This workshop covers the fundamentals of TensorFlow. By the end of this workshop
 The workshop will start by introducing concepts unique to TensorFlow, e.g. sessions, variables, optimizers.
 Later, we'll put these concepts together to build logistic regression, 3-layer NN, and finally, GAN.
 
-You will start from
-
-`tf.add(2,3)`
-
-and will end up building GAN that can generate the following image:
-
-TODO: Some awesome image.
-
 The side theme of this workshop is writing clean, structured and well-documented code. ML code tends to get messy. This is especially the case in academic settings where we don't have a manager to review your code. We are also free from the pressure that our code will be used by millions of people. BUT, this never means that you can write sloppy code. The code should be nicely written so that you, three months from now, should be able to come back to the code and tell exactly what each function is doing.
 
 That said, my code is not the best thing in the world. If you find any improvements, or errors in the code, please let me know. Pull requests are always welcome.
