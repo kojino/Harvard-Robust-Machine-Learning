@@ -26,6 +26,7 @@ That said, my code is not the best thing in the world. If you find any improveme
 7. [Visualization](7_Visualization.ipynb)
 8. [Multi-layer Perceptron](8_Multi_Layer_Perceptron.ipynb)
 9. [GAN](9_GAN.ipynb)
+10. [Adversarial Examples](10_Adversarial_Examples.ipynb)
 
 ## Workshop Format
 When learning a new framework, it is better to move hands than to listen. So, we prepared quite a bit of programming exercises.
