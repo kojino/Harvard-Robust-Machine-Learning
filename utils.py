@@ -11,4 +11,4 @@ def tf_to_dot(graph):
         for i in n.input:
             dot.edge(i, n.name)
 
-return dot
+    return dot
