@@ -3,3 +3,4 @@
 MNIST_data/
 log/
 __pycache__
+inception/
