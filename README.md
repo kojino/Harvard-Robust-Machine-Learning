@@ -28,6 +28,8 @@ That said, my code is not the best thing in the world. If you find any improveme
 9. [GAN](9_GAN.ipynb)
 10. [Adversarial Examples](10_Adversarial_Examples.ipynb)
 
+Appendix: [Articles](Articles.md), [Papers](Papers.md) on robust machine learning
+
 ## Workshop Format
 When learning a new framework, it is better to move hands than to listen. So, we prepared quite a bit of programming exercises.
 You will work with your project partner on these exercises. [Pair programming](https://en.wikipedia.org/wiki/Pair_programming) is extremely effective for being a better coder whether it be software or ML!
