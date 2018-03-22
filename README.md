@@ -50,6 +50,14 @@ Here are the list of things we will not cover but you might want to self-learn:
 - [Stanford CS224d, Deep Learning for NLP](http://web.stanford.edu/class/cs224n/syllabus.html)
 - [Most popular TF code samples on GitHub](https://github.com/aymericdamien/TensorFlow-Examples)
 
+## How to contribute
+
+We want this repository to be a source of information related to robust machine learning. To do so, we need your help. In particular, you can **send a pull request** to this repository. For details, see [this](https://help.github.com/articles/creating-a-pull-request/). Some types of contribution can be:
+
+- Adding more models from our assigned papers to the tutorial.
+- Adding papers/articles you found interesting to [Papers.md](papers.md), [Articles.md](articles.md).
+- Fixing typos (always a good start if you're new to OSS).
+
 Workshop offered by: [Kojin Oshiba](http://kojinoshiba.com/), Jerry Anunrojwong.
 <br />
 Course taught by Professor [Yaron Singer](https://people.seas.harvard.edu/~yaron/).
