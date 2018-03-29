@@ -1,5 +1,5 @@
-# CS282R Tensorflow Workshop
-A TensorFlow tutorial for CS282R, a course on robust machine learning taught at Harvard University in Spring 2018.
+# CS282R: Robust Machine Learning Workshop
+Coding tutorial for robust machine learning algorithms for CS282R "Robust Machine Learning" taught at Harvard University in Spring 2018.
 
 ## Overview
 This workshop covers the fundamentals of TensorFlow. By the end of this workshop, you will be well equipped to start building your own neural network models in TensorFlow.
