@@ -60,6 +60,8 @@ We want this repository to be a source of information related to robust machine 
 - Adding papers/articles you found interesting to [Papers.md](papers.md), [Articles.md](articles.md).
 - Fixing typos (always a good start if you're new to OSS).
 
-Workshop offered by: [Kojin Oshiba](http://kojinoshiba.com/), Jerry Anunrojwong.
+Finally, don't forget to add your name below to give yourself a credit for the work you put in :)
+
+Material created by: [Kojin Oshiba](http://kojinoshiba.com/), Jerry Anunrojwong.
 <br />
 Course taught by Professor [Yaron Singer](https://people.seas.harvard.edu/~yaron/).
